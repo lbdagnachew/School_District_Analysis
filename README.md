@@ -17,5 +17,7 @@ The school district discovered that there might be a potential academic dishones
 
 -For reference, there are only 461 students in grade 9 at Thomas High School, and given the total student count is 39,170, the grade 9 students only make up 1.2% of the total student count
 
+![Thomas_High_school](https://user-images.githubusercontent.com/101952961/168734397-7ff212c4-b1bb-4c90-a45f-1d9d0468adc1.PNG)
+
 ![Overall_Score_for_School_District](https://user-images.githubusercontent.com/101952961/168734071-414de7fb-81eb-411d-803b-e10ff4294ec6.PNG)
-![Thomas High School](https://user-images.githubusercontent.com/101952961/168734171-bb5ccdd1-fd3a-4e48-b506-bbc6e95e921f.PNG)
+
